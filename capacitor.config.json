@@ -1,0 +1,6 @@
+{
+  "appId": "me.michalwozniak.checklist",
+  "appName": "checklist",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

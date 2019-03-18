@@ -1,0 +1,22 @@
+{
+  "name": "check-list-electron",
+  "version": "0.0.0",
+  "description": "Application for sharing todo lists allowing co-operation",
+  "main": "index.js",
+  "scripts": {
+    "electron:start": "electron ./"
+  },
+  "dependencies": {
+    "@capacitor/electron": "^1.0.0-alpha.28",
+    "electron-is-dev": "^0.3.0"
+  },
+  "devDependencies": {
+    "electron": "^4.0.0"
+  },
+  "keywords": [
+    "capacitor",
+    "electron"
+  ],
+  "author": "",
+  "license": "ISC"
+}

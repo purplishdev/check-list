@@ -1,0 +1,8 @@
+{
+  "name": "check-list",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
